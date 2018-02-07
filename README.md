@@ -1,2 +1,2 @@
 # HuBot
-My first Repository
+This is a serious test!
